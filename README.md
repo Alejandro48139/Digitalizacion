@@ -1,6 +1,6 @@
-git init
-git add .
-git commit -m "Mensaje"
-git Branch - M main
-git remote add origin…
-git push -u origin main
+git init (Inicializa un nuevo repositorio Git en la carpeta actual.)
+git add . (Agrega todos los archivos al área de preparación (staging).)
+git commit -m "Mensaje"(Crea un commit con los cambios agregados y un mensaje.)
+git Branch - M main (Cambia el nombre de la rama actual a "main".)
+git remote add origin… (Vincula el repositorio local con uno remoto.)
+git push -u origin main (Sube los cambios a la rama "main" del repositorio remoto.)
